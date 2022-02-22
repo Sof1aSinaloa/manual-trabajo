@@ -22,7 +22,7 @@ _Pull request_
 
 El pull request funciona como peticiones al repositorio original para otorgar cambios adversos al commit original. Son observados la englobación de todos los cambios al que se ha hecho originalmente, como un salvaguarda para no modificar directamente el original. 
 
-![Pull request](https://raw.githubusercontent.com/Sof1aSinaloa/manual-trabajo/blob/main/Pullrequest.PNG)
+<img src="https://raw.githubusercontent.com/Sof1aSinaloa/manual-trabajo/main/Pullrequest.PNG"/>
 
 _Issues_
 
@@ -30,6 +30,6 @@ Estan hechos a partir de querer mejorar fallas o caracteristicas dentro de algun
 Existen distintos tipos de Issues, pero una vez que ellos estan solucionados, o en ciertos casos, ese Issue puede proceder a ser cerrados. 
 
 
-![Issues](https://raw.githubusercontent.com/Sof1aSinaloa/manual-trabajo/blob/main/Issues.PNG)
+<img src="https://raw.githubusercontent.com/Sof1aSinaloa/manual-trabajo/main/Issues.png"/>
 
 
