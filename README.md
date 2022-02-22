@@ -1,6 +1,8 @@
 # manual-trabajo
 
-  
+_Comandos_ 
+
+
   Dentro de los comandos visto de Git son:  
 CD "nombrerepositorio": Para ingresar de manera remota a repositorios de Git es necesario este comando. Esto elaborado desde el CMD.
 
@@ -14,3 +16,16 @@ git clone: se usa para crear una copia o clonar un repositorio remoto.
 git add --all: con este comando se guardan todos los cambios a la rama principal. Utilizando la setencia "." puede agregar todos los ficheros necesarios para el repositorio. Si nosotros volvemos a introducicr "Git Status" podemos encontrar si los archivos fueron agregados de manera correcto, y/o cuales fueron agregados.   
 git Config: Es capaz de agregar configuraciones predestinadas para inicio o cambios globales. 
 git push: esta guarda una copia antes de realizar un cambio
+
+
+_Pull request_
+
+El pull request funciona como peticiones al repositorio original para otorgar cambios adversos al commit original. Son observados la englobación de todos los cambios al que se ha hecho originalmente, como un salvaguarda para no modificar directamente el original. 
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
+
+
+
+
+
