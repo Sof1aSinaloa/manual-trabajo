@@ -2,7 +2,8 @@
 
   
   Dentro de los comandos visto de Git son:  
-  
+CD "nombrerepositorio": Para ingresar de manera remota a repositorios de Git es necesario este comando. Esto elaborado desde el CMD.
+
 Git status: Usado para ver cambios hechos que no han sido implementados, nos nombrará el estado general de fichero correspondiente. A su vez, nos mostrará que archivos han sido modificados y no han sido implementados. 
 
 Commit: Para aplicar los cambios hechos para el Git local, el cual procederá abrir los archivos en el editor predeterminado; una vez que queramos aplicar cambios se nos pedirá proporcionar "nombre" al cambio y opcionalmente agregar "descrpción", esto si no deseamos hacerlo desde la consola.
@@ -10,5 +11,6 @@ Los cambios en la consola se ejecutan con "git commit README.md -m "nombre para 
  
 git init: este se encarga de crear un .git dentro de la rama de trabajo actual. es la rama principal  
 git clone: se usa para crear una copia o clonar un repositorio remoto.  
-git add --all: con este comando se guardan todos los cambios a la rama principal  
+git add --all: con este comando se guardan todos los cambios a la rama principal. Utilizando la setencia "." puede agregar todos los ficheros necesarios para el repositorio. Si nosotros volvemos a introducicr "Git Status" podemos encontrar si los archivos fueron agregados de manera correcto, y/o cuales fueron agregados.   
+git Config: Es capaz de agregar configuraciones predestinadas para inicio o cambios globales. 
 git push: esta guarda una copia antes de realizar un cambio
