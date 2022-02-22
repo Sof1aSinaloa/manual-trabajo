@@ -22,7 +22,7 @@ _Pull request_
 
 El pull request funciona como peticiones al repositorio original para otorgar cambios adversos al commit original. Son observados la englobación de todos los cambios al que se ha hecho originalmente, como un salvaguarda para no modificar directamente el original. 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/sof1asinaloa/manualtrabajo/branch/path/to/Pulrquest.png)
 
 
 
