@@ -24,8 +24,12 @@ El pull request funciona como peticiones al repositorio original para otorgar ca
 
 ![Pull request](https://raw.githubusercontent.com/Sof1aSinaloa/manual-trabajo/blob/main/Pullrequest.PNG)
 
+_Issues_
+
+Estan hechos a partir de querer mejorar fallas o caracteristicas dentro de algun archivo del repositorio. Los issues se prestan como solicitudes a modificaciones a diferentes tipos de doc., los equipos de desarrollo esta encargado de solucionar esos "Issues" nombrando a colaboradores que a partir de los pull request realizaran cambios solicitados o nombrados dentro de los "Issues" estos ayudaran como un filtro para tareas. 
+Existen distintos tipos de Issues, pero una vez que ellos estan solucionados, o en ciertos casos, ese Issue puede proceder a ser cerrados. 
 
 
-
+![Issues](https://raw.githubusercontent.com/Sof1aSinaloa/manual-trabajo/blob/main/Issues.PNG)
 
 
